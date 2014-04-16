@@ -1,17 +1,17 @@
 === admin slug column ===
 Contributors: ryno267
-Donate link:
-Tags: slug
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3TGB4BDCPFTHL
+Tags: slug, admin columns, permalink, url, page titles
 Requires at least: 3.2.1
-Tested up to: 3.6
-Stable tag: 0.2
-License: GPL v3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tested up to: 3.9
+Stable tag: 0.2.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Put the slug of post and page into the admin columns
+Puts the slug of posts and pages into an admin column on all posts/pages screen. It helps when page titles don't explain what the page is or too many are similar.
 
 == Description ==
-Simply put, this plugin adds the page and post slug into the admin columns.
+Simply put, this plugin adds the page and post slug into the admin columns on the All post and All pages view.
 I built this quickly out of necessity to help identify pages and posts by their slug as sometimes the titles clients give them don't match up nicely with the url slug; so here's a fast way to do that. Nothing fancy, just does what it does.
 
 == Installation ==
@@ -22,13 +22,16 @@ I built this quickly out of necessity to help identify pages and posts by their 
 
 == Frequently Asked Questions ==
 = Why build this? =
-Built quickly out of necessity to help identify pages and posts by their slug. Sometimes the titles clients give them don't match up nicely with the url slug; so here's a fast way to do it. Nothing fancy, just does what it does.
+Built quickly out of necessity to help identify pages and posts by their slug. Sometimes the titles clients have don't always match up nicely with the url slug; so here's a fast way to solve that. Nothing fancy, just does what it does.
 
 == Screenshots ==
 
 
 == Changelog ==
+= 0.2.1 =
+* basic cleanup
+* tested to 3.9
 = 0.2 =
-make oop and class
+* make oop and class
 = 0.1 =
-Initial version to github; rough; makes slug columns yay
+* Initial version to github; rough; makes slug columns yay
